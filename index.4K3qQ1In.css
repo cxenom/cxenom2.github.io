@@ -1,0 +1,1 @@
+.buttons.svelte-56sycl{display:grid;grid-template-columns:repeat(2,1fr);gap:var(--space-2);width:100%}.buttons.svelte-56sycl>button{flex:1}.buttons.svelte-56sycl>button:only-child{grid-column:span 2}
